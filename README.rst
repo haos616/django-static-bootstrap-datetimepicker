@@ -4,6 +4,7 @@ Django Bootstrap datetimepicker
 `Bootstrap <http://getbootstrap.com/>`_
 
 `Bootstrap datetimepicker (Doc) <http://eonasdan.github.io/bootstrap-datetimepicker/>`_
+
 `Bootstrap datetimepicker (Github) <https://github.com/Eonasdan/bootstrap-datetimepicker>`_
 
 Requirements
