@@ -1,5 +1,5 @@
 Django Bootstrap datetimepicker
-=============
+===============================
 
 `Bootstrap <http://getbootstrap.com/>`_
 

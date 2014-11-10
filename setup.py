@@ -15,7 +15,6 @@ setup(
     description='jQuery packaged in an handy django app to speed up new applications and deployment.',
     long_description=long_description,
     author='haos616',
-    url="https://github.com/Haos616/django-static-bootstrap-datetimepicker",
     author_email='haos616@gmail.com',
     license='BSD',
     keywords='django bootstrap datetimepicker staticfiles'.split(),
